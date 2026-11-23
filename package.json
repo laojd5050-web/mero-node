@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.18.0"},"name":"mero-node","private":true,"scripts":{"start":"node index.js"},"version":"1.0.0"}
